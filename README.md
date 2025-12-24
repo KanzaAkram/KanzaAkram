@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### Software Engineer | Full-Stack Developer | AI & ML Engineer
+  ### Software Engineer | Full-Stack AI Developer 
   
   🚀 Building intelligent solutions with Generative AI, LLMs, and Modern Web Technologies
   
