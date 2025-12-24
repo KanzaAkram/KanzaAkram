@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### Software Engineer 
+  ### Software Engineer | Full-Stack Developer | AI & ML Engineer
   
   🚀 Building intelligent solutions with Generative AI, LLMs, and Modern Web Technologies
   
@@ -88,20 +88,6 @@ AI-powered RAG application for breast cancer clinical trials with intelligent se
 - 🏅 **Microsoft Azure Fundamentals AZ-900 Exam Prep** - Oct 2023
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanzaakram&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanzaakram&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanzaakram&theme=radical&hide_border=true)
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=kanzaakram&theme=radical&no-frame=true&row=1&column=6)
-
-</div>
 
 ---
 
